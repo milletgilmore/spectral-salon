@@ -15,6 +15,7 @@ I created this site for a local Dallas Salon. I was able to build, test, and hos
 * HTML / HTML5 UP DESIGNS
 * CSS
 * SASS
+* Javascript
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
